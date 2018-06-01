@@ -1,0 +1,22 @@
+{
+  "name": "nodecrud",
+  "version": "1.0.0",
+  "description": "Node CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbysiagian/nodejs-express-crud.git"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "Bobby Siagian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobbysiagian/nodejs-express-crud/issues"
+  },
+  "homepage": "https://github.com/bobbysiagian/nodejs-express-crud#readme"
+}
