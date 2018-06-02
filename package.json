@@ -4,6 +4,7 @@
   "description": "Node CRUD",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "node tests"
   },
   "repository": {
